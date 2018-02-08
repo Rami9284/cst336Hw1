@@ -46,9 +46,8 @@
             </main>
     
     </body>
-        
-    <footer>
-        <hr/>
-        <p>@Ramirez 2017 Disclaimer: This website is for educational purposes only</p>
-    </footer>
+<footer>
+    <hr/>
+    <p>@Ramirez 2017 Disclaimer: This website is for educational purposes only</p>
+</footer>
 </html>
