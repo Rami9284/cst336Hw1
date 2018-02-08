@@ -108,4 +108,6 @@ aside:hover + div{
 hr{
     width: 65%;
 }
-
+footer {
+    font-size: small;
+}
