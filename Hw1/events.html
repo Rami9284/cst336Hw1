@@ -17,7 +17,7 @@
         
         <nav>
             <hr width = "65%"/>
-            <a href = "index.html">Home</a>
+            <a href = "index.php">Home</a>
             <a href = "trojans.html">Trojan Horse</a>
             <a href = "spyware.html">Spyware</a>
             <a href = "events.html">The Virus Timeline</a>
