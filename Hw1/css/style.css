@@ -1,0 +1,108 @@
+body{
+    color: black;
+    background-color: #fff8e0;
+}
+
+header, nav, main, footer{
+    text-align: center;
+    clear: both;
+}
+
+header {
+    font-size: large;
+}
+
+nav a{
+    padding:15px;
+    padding-bottom: 4px;
+    font-size:  1.5em;
+    text-decoration:  none;
+    color:black;
+}
+
+nav a:hover{
+    border-bottom:  2px black solid;
+    font-size: 1.5em;
+    
+}
+.left-col {
+    float: left;
+    width: 38%;
+    text-align: right;
+}
+.right-col{
+    float: right;
+    width: 60%;
+    text-align: left;
+}
+ .indexText{
+    
+   display: inline-block;
+    text-align: left;
+    width: 25%;
+    height: 10%;
+
+}
+#trojanHorse, #spy{
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+
+}
+#trojanImg {
+     text-align: center;
+ }
+ 
+#spyImg {
+    text-align: center;
+    width: 43%;
+}
+cite{
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px
+}
+
+#right-events {
+    float: right;
+   background-color: #f2e5c4;
+    width: 10%;
+    margin-right: 25%;
+    text-align: center;
+}
+
+aside a:link{
+    color: black;
+}
+aside a:visited {
+    color: gray;
+}
+#eventsText{
+    float: left;
+    width: 30%;
+    margin-left: 23%
+    
+}
+article b{
+    color: black;
+    font-size: .9em;
+}
+article b:hover {
+    font-size: 1.3em;
+    color: #737984;
+}
+
+div {
+    background-color: Lightgray;
+    display: none;
+    width: 10%;
+    height: 10%;
+    float: right;
+}
+
+aside:hover + div{
+    display: block;
+}
+
